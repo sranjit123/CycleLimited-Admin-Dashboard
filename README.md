@@ -55,14 +55,15 @@ Admin-Dashboard/
 │   └── main.jsx
 ├── package.json
 └── README.md
+```
 
-Getting Started
+## Getting Started
 Prerequisites
 - Node.js
 - npm
 - Git
 
-Installation
+## Installation
 1. Clone the repository:
    git clone https://github.com/sranjit123/CycleLimited-Admin-Dashboard.git
 2. Move into the project directory:
@@ -73,15 +74,15 @@ Installation
    npm run dev
 5. Open the local URL shown in your terminal, usually http://localhost:5173.
 
-Data
+## Data
 Product, category, and sample order data are stored in the project's src/data files. The application also uses browser localStorage for some data.
 
 The Orders page retrieves sample cart data from the DummyJSON API. This project does not currently use a production backend or database.
 
-Project Status
+## Project Status
 This project is a frontend admin dashboard built for learning and development. Authentication and data storage are not intended for production use.
 
-Future Improvements
+## Future Improvements
 - Connect a backend and database
 - Add production-ready authentication and role-based access
 - Connect orders to a real order management system
