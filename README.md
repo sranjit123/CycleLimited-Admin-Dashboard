@@ -2,7 +2,7 @@
 
 A React-based admin dashboard for managing an online bicycle store. The dashboard includes pages for products, categories, users, orders, and profile information.
 
-[**💻 Live Demo Website**](https://cycle-limited-admin-dashboard.vercel.app)
+<a href="https://cycle-limited-admin-dashboard.vercel.app" target="_blank">[**💻 Live Demo Website**]</a>
 
 ## Features
 
